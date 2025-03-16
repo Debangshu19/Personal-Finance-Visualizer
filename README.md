@@ -59,3 +59,13 @@ Ensure you have the following installed:
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+
+## 📧 Contact
+
+For any queries or feedback, feel free to reach out:
+
+- **Developer:** Debangshu Dey
+- **Email:** [debangshu.dey47@gmail.com](mailto\:debangshu.dey47@gmail.com)
+- **LinkedIn:** [linkedin.com/in/debangshudey](https://www.linkedin.com/in/debangshudey)
+
+---
