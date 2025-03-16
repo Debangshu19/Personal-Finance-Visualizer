@@ -8,7 +8,7 @@ export const useCategoryStore = create ((set, get) => ({
     getCategories: async () => {
         set({isCategoryLoading: true});
         try {
-            const response = await axios.get('http://localhost:5000/api/category', {withCredentials: true});
+            const response = await axios.get('https://personal-finance-visualizer-i4xy.onrender.com/api/category', {withCredentials: true});
             set({categories: response.data.transactions, isCategoryLoading: false});    
         } catch (error) {
             toast.error('Failed to fetch categories');
