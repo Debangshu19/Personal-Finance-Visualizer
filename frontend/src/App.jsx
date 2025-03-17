@@ -23,6 +23,7 @@ const App = () => {
     return (
 			<div className='h-screen'>
 				<div className='flex justify-center items-center bg-white h-full'>
+					<p className='font-bold mx-10'>Wait Data is being Fetched</p>
 					<Loader className='animate-spin text-black size-10' />
 				</div>
 			</div>
